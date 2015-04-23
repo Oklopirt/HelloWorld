@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         public static void Main()
         {
-            Console.WriteLine("Проверка");
+            Console.WriteLine("Проверкаыва");
         }
     }
 }
