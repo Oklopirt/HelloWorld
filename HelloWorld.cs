@@ -6,7 +6,19 @@ namespace HelloWorld
     {
         public static void Main()
         {
-            Console.WriteLine("��������2323sdf");
+<<<<<<< .mine
+            Console.WriteLine("Проверка2323sdf");
+
+
+
+
+=======
+            Console.WriteLine("Ïðîâåðêàûâà");
+            foreach (vat t in new[1, 2, 3]){
+                Console.WriteLine(t);
+                
+            }
+>>>>>>> .theirs
         }
     }
 }
