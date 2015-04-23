@@ -6,7 +6,11 @@ namespace HelloWorld
     {
         public static void Main()
         {
-            Console.WriteLine("Проверкаыва");
+            Console.WriteLine("ГЏГ°Г®ГўГҐГ°ГЄГ Г»ГўГ ");
+            foreach (vat t in new[1, 2, 3]){
+                Console.WriteLine(t);
+                
+            }
         }
     }
 }
